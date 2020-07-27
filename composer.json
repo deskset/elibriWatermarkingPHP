@@ -1,0 +1,6 @@
+{
+    "name": "deskset/elibri-watermarking-php",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
